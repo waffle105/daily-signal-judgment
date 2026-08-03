@@ -1,0 +1,4 @@
+interface:
+  display_name: "每日核心信号与一句话判断"
+  short_description: "自动生成每日双栏目知识卡片、详情文案并按六位日期归档保存"
+  default_prompt: "使用 $daily-signal-judgment 根据今天的素材生成每日核心信号和今日一句话判断，并保存图片与文案。"
